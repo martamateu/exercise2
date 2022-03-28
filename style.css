@@ -1,0 +1,40 @@
+
+body#newBodyElement {
+ display:grid;
+ 
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#title {
+    
+    background: linear-gradient(    to bottom,    black,     transparent  );
+    border: 1px solid black;
+    box-shadow: #F37349;
+    box-shadow: 2px 2px #888888;
+}
+
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+div#box {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 16px;
+}
+
+button#btn{
+    background-color: #F37349;
+}
+
+a{
+    color: white;
+    font-size: 15px;
+}
